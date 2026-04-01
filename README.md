@@ -1,36 +1,54 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Kyzen Portfolio
 
-## Getting Started
+A personal portfolio and writing space for Myself.I built this to feel calm, direct, and a little bit personal.
 
-First, run the development server:
+This site is where I keep my projects, notes, and a few thoughts about the things I’m learning as I explore systems programming, operating systems, and low-level computing.
+
+It’s not meant to feel corporate or overdesigned. Just simple, clean, and honest.
+
+## What’s inside
+
+- A homepage with a short intro and featured projects
+- A projects section for systems work and experiments
+- A blog for updates and learning notes
+- An about page with a more personal look at who I am
+- A contact page for GitHub, Discord, email, and Bluesky
+- A live GitHub contribution graph
+
+## Built with
+
+- Next.js 16
+- React 19
+- Tailwind CSS 4
+- Next.js App Router
+
+## Run it locally
 
 ```bash
+npm install
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Then open [http://localhost:3000](http://localhost:3000) in your browser.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+### Useful scripts
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+```bash
+npm run dev    # start the development server
+npm run build  # create a production build
+npm run start  # run the production build
+npm run lint   # check the code
+```
 
-## Learn More
+## A small note
 
-To learn more about Next.js, take a look at the following resources:
+This project is still growing.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+I’m building it step by step, and I’ll keep adding more as I learn, improve, and ship new things. The goal is to make it feel like me — not like a template.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## Contact
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+- Email: hello@kyzen7.me
+- GitHub: https://github.com/KyzenDev7
+- Discord: https://discord.com/users/837383364083580969
+- Bluesky: https://bsky.app/profile/kyzen7.bsky.social
