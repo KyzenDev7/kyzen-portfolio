@@ -49,7 +49,7 @@ const socialLinks = [
     href: "/about",
     bg: "bg-[#ff9fb0]",
     fg: "text-[#2a0f16]",
-    iconSrc: "/globe.svg",
+    iconSrc: "/blog-icon.svg",
   },
 ];
 
