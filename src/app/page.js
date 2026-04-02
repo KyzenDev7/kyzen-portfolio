@@ -39,17 +39,17 @@ const socialLinks = [
   },
   {
     label: "Bluesky",
-    href: "https://bsky.app/profile/kyzen7.bsky.social",
+    href: "https://bsky.app/profile/kyzen7.me",
     bg: "bg-[#5770f7]",
     fg: "text-white",
     iconSrc: "/bluesky-icon.svg",
   },
   {
-    label: "Blog",
-    href: "/blog",
+    label: "About",
+    href: "/about",
     bg: "bg-[#ff9fb0]",
     fg: "text-[#2a0f16]",
-    iconSrc: "/blog-icon.svg",
+    iconSrc: "/globe.svg",
   },
 ];
 
