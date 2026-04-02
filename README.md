@@ -1,6 +1,6 @@
 # Kyzen Portfolio
 
-A personal portfolio and writing space for Myself.I built this to feel calm, direct, and a little bit personal.
+A personal portfolio and writing space for myself.I built this to feel calm, direct, and a little bit personal.
 
 This site is where I keep my projects, notes, and a few thoughts about the things I’m learning as I explore systems programming, operating systems, and low-level computing.
 
