@@ -6,11 +6,11 @@ export const blogPosts = [
     excerpt:
       "A personal note on why I chose systems programming, and what I want to understand underneath modern software.",
     content: [
-      "Most people start programming by building websites or apps. I decided to go deeper — to understand how systems actually work.",
-      "I’ve always been curious about how things are built, especially the parts that are not visible. Operating systems, memory, processes — the core of computing. That curiosity pushed me toward systems programming.",
+      "Most people start programming by building websites or apps. I decided to go deeper to understand how systems actually work.",
+      "I’ve always been curious about how things are built, especially the parts that are not visible. Operating systems, memory, processes the core of computing. That curiosity pushed me toward systems programming.",
       "Instead of just using software, I want to understand how it works underneath.",
       "Systems programming is not easy. It requires patience, attention to detail, and a deep understanding of how computers work. But that’s exactly why I chose it.",
-      "I don’t just want to write code — I want to understand how memory is managed, how processes run, and how the OS interacts with hardware.",
+      "I don’t just want to write code, I want to understand how memory is managed, how processes run, and how the OS interacts with hardware.",
       "Right now, I’m learning C and low-level programming, Linux and how systems behave, and core OS concepts. I’m also planning and starting my own project: BluelarkOS — a hybrid C + Rust operating system.",
       "BluelarkOS is my attempt to explore how modern safety (Rust) can work with traditional low-level control (C). It’s not about creating the next big OS. It’s about learning deeply and building something real.",
       "I’m not rushing. I’m learning step by step: understanding fundamentals, experimenting, building small parts, and improving gradually.",
