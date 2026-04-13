@@ -65,7 +65,7 @@ export default function AboutPage() {
                   concepts, experimenting, and improving my skills.
                 </p>
                 <p>
-                  Outside of tech, I enjoy photography, traveling — especially mountains and rivers — and gaming,
+                  Outside of tech, I enjoy photography, traveling especially mountains and rivers and gaming,
                   with Minecraft being one of my favorites. I&apos;m also interested in physics, as it helps me see and
                   understand the world from a different perspective.
                 </p>
@@ -77,7 +77,7 @@ export default function AboutPage() {
               <ul className="mt-4 space-y-3 text-white/78">
                 <li className="flex items-start gap-3">
                   <span className="mt-2 h-1.5 w-1.5 rounded-full bg-[#8cc8ff]" />
-                  <span>C, C++ — systems and low-level concepts</span>
+                  <span>C, C++ systems and low-level concepts</span>
                 </li>
                 <li className="flex items-start gap-3">
                   <span className="mt-2 h-1.5 w-1.5 rounded-full bg-[#8cc8ff]" />
@@ -97,7 +97,7 @@ export default function AboutPage() {
                 </li>
                 <li className="flex items-start gap-3">
                   <span className="mt-2 h-1.5 w-1.5 rounded-full bg-[#8cc8ff]" />
-                  <span>Python — exploring AI/ML concepts</span>
+                  <span>Python just exploring AI/ML concepts</span>
                 </li>
               </ul>
             </div>
